@@ -24,7 +24,7 @@
 .container-filter li a:hover, .container-filter li a.active,
 .tns-nav button.tns-nav-active,
 .form-check-input.form-check-input:checked {
-    background-color: #6dc77a !important;
+    background-color: #1089B2 !important;
 }
 
 .text-primary,
@@ -62,7 +62,7 @@
 .footer .footer-list li a:hover,
 .accordion .accordion-item .accordion-button:not(.collapsed),
 .accordion .accordion-item .accordion-button:before {
-    color: #6dc77a !important;
+    color: #1089B2 !important;
 }
 
 .btn-primary,
@@ -92,7 +92,7 @@
 .flatpickr-day.selected:hover,
 .form-check-input:focus,
 .form-check-input.form-check-input:checked {
-    border-color: #6dc77a !important;
+    border-color: #1089B2 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -133,7 +133,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .bg-overlay-primary {
-    background-image: linear-gradient(135deg, #6dc77a, #6dc77a, #6dc77a);
+    background-image: linear-gradient(135deg, #1089B2, #1089B2, #1089B2);
 }
 
 .feature .border-icon {
@@ -145,11 +145,11 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .play-icon i {
-    -webkit-text-stroke: 2px #6dc77a;
+    -webkit-text-stroke: 2px #1089B2;
     -webkit-text-fill-color: transparent;
 }
   
 .play-icon i:hover {
-    -webkit-text-stroke: 2px #6dc77a;
-    -webkit-text-fill-color: #6dc77a;
+    -webkit-text-stroke: 2px #1089B2;
+    -webkit-text-fill-color: #1089B2;
 }
