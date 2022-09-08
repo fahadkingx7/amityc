@@ -96,7 +96,7 @@
 }
 
 a.text-primary:hover, a.text-primary:focus {
-    color: #48b958 !important;
+    color: #2300D0 !important;
 }
 
 .btn-primary:hover, 
@@ -104,8 +104,8 @@ a.text-primary:hover, a.text-primary:focus {
 .btn-primary:active, 
 .btn-primary.active, 
 .btn-primary.focus {
-    background-color: #48b958 !important;
-    border-color: #48b958 !important;
+    background-color: #2300D0 !important;
+    border-color: #2300D0 !important;
 }
 
 .alert-primary {
